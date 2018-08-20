@@ -1,4 +1,5 @@
 amqp==2.3.2
+PyYAML
 billiard==3.5.0.4
 celery==4.2.1
 django==2.1
