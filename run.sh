@@ -1,0 +1,1 @@
+celery -A assignment7 worker -l info
